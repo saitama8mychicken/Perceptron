@@ -9,5 +9,6 @@ In the above two single layer perceptrons have been designed
 
 1 - Single layer perceptron for housing data
       (https://github.com/saitama8mychicken/Perceptron/blob/master/single%20layer%20perceptron.ipynb)
+      
 2 - Single layer perceptron for mnist data
       (https://github.com/saitama8mychicken/Perceptron/blob/master/mnist%20using%20single%20layer%20perceptron.ipynb)
